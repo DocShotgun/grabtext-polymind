@@ -1,0 +1,8 @@
+{
+    "module_name": "grabtext-polymind",
+    "name": "grabtext",
+    "description": "This function extracts the raw text content of a webpage or list of webpages, and should only be used when analyzing the content of web link(s) provided by the user.",
+    "params": {
+        "urls": "A comma-separated list of URLs to fetch (i.e. 'https://www.example1.com, https://www.example2.org'). Only provide valid URLs!"
+    }
+}
